@@ -6,6 +6,8 @@ A React native Shopping Cart demo application (done using Typescript & Redux).
 ```bash
 npm install
 npm start
+//if expo cli is not installed run the following
+npm install --global expo-cli
 ```
 
 
