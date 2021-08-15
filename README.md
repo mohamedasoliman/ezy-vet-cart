@@ -16,6 +16,6 @@ between the products list and checkout screen, and the code is written in Typesc
 
 ## Screenshots
 
-[1]: ./Screenshots/sc1.png
-[2]: ./screenshots/sc2.png
-[3]: ./screenshots/sc3.png
+![Test Image 1](https://github.com/mohamedasoliman/ezy-vet-cart/blob/main/Screenshots/sc1.png)
+![Test Image 2](https://github.com/mohamedasoliman/ezy-vet-cart/blob/main/Screenshots/sc2.png)
+![Test Image 3](https://github.com/mohamedasoliman/ezy-vet-cart/blob/main/Screenshots/sc2.png)
